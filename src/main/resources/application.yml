@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: javacv_attendance_recognition
+
+  main:
+    banner-mode: off
+
+pathDirectory:
+  srcTrainDirectory: src/main/resources/static/train/source
+  destinationTrainDirectory: src/main/resources/static/train/destination/classifierLBPH.yml
+
