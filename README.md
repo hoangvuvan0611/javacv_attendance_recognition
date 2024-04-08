@@ -1,7 +1,7 @@
 # Spring javacv, opencv
 A program used java-spring, javacv, opencv...
 
-- Get some photo to train: colorImage -> greyImage -> vector in Matrix (xml file)
+- Get some photo to train: colorImage -> greyImage -> vector in Matrix (yml file)
 ## Require
 - Java version 21.0.2
 - JDK [Corretto 21](https://docs.aws.amazon.com/corretto/latest/corretto-21-ug/downloads-list.html)
